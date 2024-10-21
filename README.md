@@ -3,7 +3,7 @@ A transformation library for robot motion
 
 ## Installation
 ```bash
-npm install robotransforms
+npm install @novadynamics/robotransforms
 ```
 
 ## Usage

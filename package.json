@@ -1,6 +1,6 @@
 {
-  "name": "robotransforms",
-  "version": "1.0.0",
+  "name": "@novadynamics/robotransforms",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {

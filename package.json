@@ -1,0 +1,22 @@
+{
+  "name": "robotransforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nova-Dynamics/robotransforms.git"
+  },
+  "author": "Jonathan Van Schenck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nova-Dynamics/robotransforms/issues"
+  },
+  "homepage": "https://github.com/Nova-Dynamics/robotransforms#readme",
+  "dependencies": {
+    "mathjs": "^13.2.0"
+  }
+}

@@ -1,5 +1,5 @@
 
 
 module.exports = {
-    euclidean: require("./euclidean.js")
+    euclidean: require("./lib/euclidean.js")
 }
